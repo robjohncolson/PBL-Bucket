@@ -1,0 +1,186 @@
+% Candy Auction - Teacher Script & Guide
+% Algebra 2 - Collecting Price vs Demand Data
+\documentclass[11pt]{article}
+
+% Package imports
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{titlesec}
+\usepackage{booktabs}
+
+% Formatting
+\setlist[itemize]{leftmargin=*, itemsep=2pt, topsep=2pt}
+\setlist[enumerate]{leftmargin=*, itemsep=2pt, topsep=2pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}
+\setlength{\parindent}{0pt}
+
+% Document begins
+\begin{document}
+
+% Header
+\begin{center}
+  {\LARGE\textbf{Candy Auction Teacher Guide}}\\[3pt]
+  {\large 15-20 minutes total}
+\end{center}
+
+\vspace{0.3em}
+\hrule height 0.8pt
+\vspace{0.5em}
+
+% Quick Overview
+\section*{Quick Overview}
+\begin{tcolorbox}[colback=yellow!5, colframe=yellow!50]
+\textbf{What:} Auction sets of 5 candies (peppermints/jolly ranchers) at different prices\\
+\textbf{Why:} Collect real price vs demand data to show inverse relationship\\
+\textbf{Setup:} 3-4 groups, each with \$20 virtual budget, one worksheet per group
+\end{tcolorbox}
+
+% Materials
+\section*{Materials Needed}
+\begin{itemize}
+  \item Bag of peppermints or jolly ranchers
+  \item 1 copy of \textbf{Candy Auction Data Table} per group
+  \item Board/markers for class data
+  \item Projector for Desmos demo (or students use devices)
+\end{itemize}
+
+% Setup
+\section*{Setup (2 minutes)}
+\begin{enumerate}
+  \item Form 3-4 groups of 3-4 students each
+  \item Give each group:
+    \begin{itemize}
+      \item One auction worksheet
+      \item \$20 virtual budget (they track this themselves)
+    \end{itemize}
+  \item Have groups write all member names on worksheet
+  \item Designate in each group:
+    \begin{itemize}
+      \item One person to record data on worksheet
+      \item One person to track their \$20 budget
+      \item One person to do Desmos later
+    \end{itemize}
+\end{enumerate}
+
+% Board Setup
+\section*{Draw This on Board}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\rowcolor{gray!20}
+\textbf{Round} & \textbf{Price for 5 Candies} & \textbf{Groups Buying} \\
+\hline
+1 & \$ & \\
+\hline
+2 & \$ & \\
+\hline
+3 & \$ & \\
+\hline
+4 & \$ & \\
+\hline
+5 & \$ & \\
+\hline
+6 & \$ & \\
+\hline
+\end{tabular}
+\end{center}
+
+% Running the Auction
+\section*{Running the Auction (8-10 minutes)}
+
+\begin{tcolorbox}[colback=blue!5, colframe=blue!50, title={\textbf{Each Round (1-2 minutes)}}]
+\textbf{Say:} ``Round [X]. The price for 5 candies is \$[PRICE]. Groups have 10 seconds to decide.''
+
+\textbf{Wait:} Let groups discuss quickly
+
+\textbf{Ask:} ``Groups buying at this price, raise hands!''
+
+\textbf{Count:} Count buying groups (0-4)
+
+\textbf{Record:} Write price and number of buyers on board
+
+\textbf{Groups:} Record the data on their worksheets
+
+\textbf{Note:} Groups can only buy ONE set per round (if they choose to buy)
+\end{tcolorbox}
+
+% Price Suggestions
+\section*{Suggested Prices (adjust as needed)}
+
+\begin{tcolorbox}[colback=green!5, colframe=green!50]
+\textbf{Goal:} Get varied data showing demand drops as price rises
+
+\vspace{0.3em}
+\textbf{Sample Sequence:}
+\begin{itemize}
+  \item Round 1: \$8.00 (high - expect 0-1 buyers)
+  \item Round 2: \$2.00 (low - expect 3-4 buyers)  
+  \item Round 3: \$5.00 (medium - expect 1-2 buyers)
+  \item Round 4: \$1.00 (very low - expect all buyers)
+  \item Round 5: \$6.50 (medium-high - expect 1 buyer)
+  \item Round 6: \$3.50 (medium-low - expect 2-3 buyers)
+\end{itemize}
+
+\textbf{Adjust if:} All groups always buy → raise prices. No one buys → lower prices.
+\end{tcolorbox}
+
+% Desmos Analysis
+\section*{Desmos Analysis (5-8 minutes)}
+
+\begin{tcolorbox}[colback=purple!5, colframe=purple!50, title={\textbf{Whole Class or Per Group}}]
+\textbf{Option A - Teacher Demo (faster):}
+\begin{enumerate}
+  \item Project Desmos on screen
+  \item Enter: \texttt{P = [8, 2, 5, 1, 6.5, 3.5]} (your prices)
+  \item Enter: \texttt{Q = [0, 4, 2, 4, 1, 3]} (number of buyers)
+  \item Type: \texttt{(P, Q)} to see scatter plot
+  \item Type: \texttt{Q \textasciitilde{} mP + b} for regression line
+  \item Discuss: ``The slope is negative. What does this mean?''
+\end{enumerate}
+
+\vspace{0.3em}
+\textbf{Option B - Groups Do It:}
+\begin{enumerate}
+  \item Each group enters their collected data
+  \item One person per group handles Desmos
+  \item Groups find their own regression equation
+  \item Share equations - should all be similar!
+\end{enumerate}
+\end{tcolorbox}
+
+% Discussion Questions
+\section*{Quick Discussion (2 minutes)}
+
+\begin{itemize}
+  \item ``What pattern did you notice?'' (Higher price → fewer buyers)
+  \item ``Why is the slope negative?'' (Inverse relationship)
+  \item ``Which price generated the most revenue?'' (Price × Quantity)
+  \item ``Could we use this to predict buyers at \$4.00?'' (Yes, using the equation)
+\end{itemize}
+
+% Wrap-up
+\section*{Wrap-up \& Collection}
+
+\begin{tcolorbox}[colback=red!5, colframe=red!50]
+\textbf{Collect:} One worksheet per group with all names
+
+\textbf{Announce:} ``Tomorrow we'll add costs and see how profit changes with price''
+
+\textbf{Optional:} Actually give out some candy to groups that participated well
+\end{tcolorbox}
+
+% Troubleshooting
+\section*{Quick Fixes}
+
+\begin{itemize}
+  \item \textbf{Groups overspend budget:} Remind them they only have \$20 total
+  \item \textbf{Too slow:} Skip to teacher demo of Desmos
+  \item \textbf{Absent students:} Just redistribute into existing groups
+  \item \textbf{No devices:} Do Desmos as whole-class demo only
+  \item \textbf{Flat data:} Use more extreme prices (\$0.50 vs \$10.00)
+\end{itemize}
+
+\end{document}

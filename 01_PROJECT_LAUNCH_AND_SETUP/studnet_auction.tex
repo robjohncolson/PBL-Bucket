@@ -1,0 +1,170 @@
+% Candy Auction - Student Data Collection Worksheet
+% Algebra 2 - Price vs Demand
+\documentclass[11pt]{article}
+
+% Package imports
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{titlesec}
+
+% Formatting
+\titleformat{\section}{\large\bfseries}{}{0pt}{}
+\setlist[itemize]{leftmargin=*, itemsep=2pt, topsep=2pt}
+\setlist[enumerate]{leftmargin=*, itemsep=2pt, topsep=2pt}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.6}
+
+% Document begins
+\begin{document}
+
+% Header
+\begin{center}
+  {\LARGE\textbf{Candy Auction Data Collection}}\\[6pt]
+  \textbf{Group Members:} \rule{0.25\textwidth}{0.4pt} \rule{0.25\textwidth}{0.4pt} \rule{0.25\textwidth}{0.4pt}\\[4pt]
+  \rule{0.25\textwidth}{0.4pt} \quad \textbf{Period:} \rule{0.08\textwidth}{0.4pt} \quad \textbf{Date:} \rule{0.15\textwidth}{0.4pt}
+\end{center}
+
+\vspace{0.3em}
+\hrule height 0.8pt
+\vspace{0.5em}
+
+% Quick Setup
+\section*{Quick Setup}
+\begin{itemize}
+  \item Your group has \textbf{\$20 virtual dollars} to spend (track this yourselves)
+  \item Each round: 5 candies are auctioned at a set price
+  \item Decide as a group: Will you buy at that price? (You can only buy ONE set per round)
+  \item Record the price and how many total groups bought
+\end{itemize}
+
+% Data Table
+\section*{Data Collection}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\rowcolor{gray!20}
+\textbf{Round} & \textbf{Price for} & \textbf{Number of Groups} & \textbf{Revenue} \\
+\rowcolor{gray!20}
+ & \textbf{5 Candies (\$)} & \textbf{Buying} & \textbf{(Price × Quantity)} \\
+\hline
+1 & & & \\
+\hline
+2 & & & \\
+\hline
+3 & & & \\
+\hline
+4 & & & \\
+\hline
+5 & & & \\
+\hline
+6 & & & \\
+\hline
+7 & & & \\
+\hline
+8 & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5em}
+
+% Budget Tracking
+\textbf{Budget Tracker:} Starting: \$20.00 \quad Remaining: \rule{1.5cm}{0.4pt}
+
+\vspace{0.5em}
+
+% Desmos Section - Part 1
+\section*{Desmos Analysis - Part 1: Enter Data \& Plot}
+
+\textbf{Step 1: Create your price list}
+
+In Desmos, type exactly: \quad \colorbox{gray!20}{\texttt{P = [}} \rule{4cm}{0.4pt} \colorbox{gray!20}{\texttt{]}}
+
+\textit{Example:} \texttt{P = [8, 2, 5, 1, 6.5, 3.5]} \quad (use YOUR prices from the table)
+
+\vspace{0.5em}
+
+\textbf{Step 2: Create your quantity list}
+
+In Desmos, type exactly: \quad \colorbox{gray!20}{\texttt{Q = [}} \rule{4cm}{0.4pt} \colorbox{gray!20}{\texttt{]}}
+
+\textit{Example:} \texttt{Q = [0, 4, 2, 4, 1, 3]} \quad (use YOUR quantities from the table)
+
+\vspace{0.5em}
+
+\textbf{Step 3: Create scatter plot}
+
+In Desmos, type exactly: \quad \colorbox{gray!20}{\texttt{(P, Q)}}
+
+\vspace{0.3em}
+✓ Check: You should see dots on the graph showing your data points!
+
+\vspace{0.8em}
+
+% Desmos Section - Part 2
+\section*{Desmos Analysis - Part 2: Find the Pattern}
+
+\textbf{Step 4: Add the regression line}
+
+In a new line, type exactly: \quad \colorbox{gray!20}{\texttt{Q \textasciitilde{} m*P + b}}
+
+\vspace{0.3em}
+\textit{Note: The} \textasciitilde{} \textit{symbol tells Desmos to find the best fit line}
+
+\vspace{0.5em}
+
+\textbf{Step 5: Record what Desmos found}
+
+Desmos will show values for $m$ and $b$. Write them here:
+
+\begin{center}
+\framebox{
+\begin{minipage}{0.7\textwidth}
+\vspace{0.5em}
+\centering
+{\large $Q = $ \framebox[2cm]{\rule{0pt}{0.8em}\hspace{2cm}} $\times P + $ \framebox[2cm]{\rule{0pt}{0.8em}\hspace{2cm}}}
+
+\vspace{0.3em}
+\small (slope $m$) \hspace{3cm} (y-intercept $b$)
+\vspace{0.3em}
+\end{minipage}
+}
+\end{center}
+
+\vspace{0.8em}
+
+% Quick Questions
+\section*{Quick Analysis}
+
+\begin{enumerate}
+  \item Is your slope negative (going down left to right)? \quad $\square$ Yes \quad $\square$ No
+  
+  \vspace{0.3em}
+  \item In one sentence: What does a negative slope mean about price and demand?
+  
+  \vspace{0.2em}
+  \rule{\textwidth}{0.4pt}
+  
+  \vspace{0.3em}
+  \item Which price in your table gave the highest revenue? \$\rule{1.5cm}{0.4pt}
+  
+  \vspace{0.3em}
+  \item Prediction: Using your equation, how many groups would buy if the price was \$4.00?
+  
+  \vspace{0.2em}
+  Show work: \rule{0.3\textwidth}{0.4pt} groups
+\end{enumerate}
+
+\vspace{0.5em}
+
+% Footer
+\hrule height 0.4pt
+\begin{center}
+  \small\textit{Save your Desmos graph! Screenshot or bookmark the link - you'll need it tomorrow.}
+\end{center}
+
+\end{document}
