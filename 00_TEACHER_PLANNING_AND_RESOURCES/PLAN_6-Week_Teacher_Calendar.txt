@@ -1,0 +1,418 @@
+# Generate the full 19-day teacher-facing vertical calendar as a .txt file
+
+calendar_text = """Parabolas for Profit – Teacher-Facing Vertical Calendar
+==============================================================
+
+Day 1 – Project Launch: Meet the Business Owners
+------------------------------------------------
+• Learning Goals
+  - Understand the project driving question: "How can we help a local business make the most money?"
+  - Begin connecting math concepts to real-world business problems.
+
+• Activities / Student Tasks
+  - Attend entry event with local business owners (live or video).
+  - Listen, take notes, and ask prepared questions about pricing challenges.
+  - Discuss initial impressions and ideas as a class.
+
+• Deliverables / Reflection Checkpoints
+  - Brainstorm initial "Need to Know" questions.
+  - Record observations in a group log or digital journal.
+
+• Key Resources
+  • N/A (introductory day focused on local context)
+
+• Teacher Prep Notes
+  - Contact local business owners or gather recorded interviews.
+  - Prepare a slide summarizing the project’s driving question and final deliverables.
+
+
+Day 2 – Project Overview and Team Formation
+-------------------------------------------
+• Learning Goals
+  - Build understanding of project expectations and products.
+  - Practice collaboration and establish team norms.
+
+• Activities / Student Tasks
+  - Review project info sheet, rubric, and deliverables.
+  - Form teams of 3–4 with varied strengths (math, writing, tech).
+  - Develop team contracts and working norms.
+
+• Deliverables / Reflection Checkpoints
+  - Completed team contract and NTK list.
+
+• Key Resources
+  • N/A
+
+• Teacher Prep Notes
+  - Print or share rubric digitally.
+  - Pre-assign or monitor balanced team composition.
+
+
+Day 3 – Survey Design Foundations
+---------------------------------
+• Learning Goals
+  - Understand how data from customers informs pricing.
+  - Learn to design unbiased and useful survey questions.
+
+• Activities / Student Tasks
+  - Review examples of well-designed and poorly designed surveys.
+  - Discuss what makes a strong survey question.
+  - Begin drafting team survey questions.
+
+• Deliverables / Reflection Checkpoints
+  - Draft version of the team survey.
+
+• Key Resources
+  • How to Design and Analyze a Survey – Zapier (https://zapier.com/blog/design-analyze-survey/)
+  • Writing Survey Questions – Pew Research Center (https://www.pewresearch.org/our-methods/u-s-surveys/writing-survey-questions/)
+  • Study Design – Khan Academy (https://www.khanacademy.org/math/probability/xa88397b6:study-design)
+
+• Teacher Prep Notes
+  - Prepare sample surveys for analysis.
+  - Model poor vs. strong questions visually.
+
+
+Day 4 – Survey Revision and Peer Review
+---------------------------------------
+• Learning Goals
+  - Improve clarity and validity of survey questions through critique.
+  - Collaborate constructively during peer review.
+
+• Activities / Student Tasks
+  - Exchange survey drafts for peer feedback.
+  - Use a checklist to ensure clarity and appropriate response scales.
+  - Revise survey accordingly.
+
+• Deliverables / Reflection Checkpoints
+  - Final survey ready for distribution.
+
+• Key Resources
+  • Same as Day 3.
+
+• Teacher Prep Notes
+  - Provide a printed or digital critique checklist.
+  - Facilitate structured feedback sessions.
+
+
+Day 5 – Launching Surveys and Data Collection
+---------------------------------------------
+• Learning Goals
+  - Collect meaningful data from community participants.
+  - Apply digital tools to gather and manage responses.
+
+• Activities / Student Tasks
+  - Administer final survey via Google Forms.
+  - Share link with classmates, family, or community networks.
+  - Track response counts toward target sample size.
+
+• Deliverables / Reflection Checkpoints
+  - Survey response log.
+
+• Key Resources
+  • Google Forms (https://www.google.com/forms/about/)
+  • Sample Size Calculator – SurveyMonkey (https://www.surveymonkey.com/mp/sample-size-calculator/)
+
+• Teacher Prep Notes
+  - Set response goals per group (e.g., 30 minimum).
+  - Monitor for inappropriate responses or duplicates.
+
+
+Day 6 – Exploring Demand Relationships
+--------------------------------------
+• Learning Goals
+  - Understand how demand changes with price.
+  - Begin analyzing example datasets.
+
+• Activities / Student Tasks
+  - Use “I Notice, I Wonder” to explore sample price-demand data.
+  - Build a table to show demand vs. price using sample data.
+
+• Deliverables / Reflection Checkpoints
+  - Completed sample data table and notes.
+
+• Key Resources
+  • NCTM I Notice, I Wonder Strategy (https://www.nctm.org/Classroom-Resources/Problems-of-the-Week/I-Notice-I-Wonder/)
+  • Example Google Sheet: Price and Demand Data (https://docs.google.com/spreadsheets/d/1bo5S_o5CnBohppfnXaxsIYBIBKvfPYVTDpc4S9eWk5o/edit?usp=sharing)
+
+• Teacher Prep Notes
+  - Prepare “I Notice, I Wonder” anchor chart.
+  - Provide printed sample data tables.
+
+
+Day 7 – Creating Tables and Graphs
+----------------------------------
+• Learning Goals
+  - Create scatterplots and interpret data visually.
+  - Understand correlation between price and demand.
+
+• Activities / Student Tasks
+  - Build scatterplots in a spreadsheet.
+  - Discuss trends and introduce linear regression.
+
+• Deliverables / Reflection Checkpoints
+  - Scatterplot showing demand vs. price.
+
+• Key Resources
+  • Desmos Graphing Calculator (https://www.desmos.com/calculator)
+  • How to Calculate a Regression Line – Dummies (https://www.dummies.com/article/academics-the-arts/math/statistics/how-to-calculate-a-regression-line-169795/)
+  • Linear Regression Using Desmos (https://youtu.be/zcZaI-xfiFE)
+
+• Teacher Prep Notes
+  - Demonstrate trendline creation in Desmos and Sheets.
+  - Check for data-entry accuracy.
+
+
+Day 8 – Linear Regression and Demand Analysis
+---------------------------------------------
+• Learning Goals
+  - Fit a linear model to price-demand data.
+  - Interpret slope and y-intercept in context.
+
+• Activities / Student Tasks
+  - Use Desmos to calculate regression equations.
+  - Relate slope to sensitivity of demand.
+
+• Deliverables / Reflection Checkpoints
+  - Regression equation annotated with interpretation.
+
+• Key Resources
+  • Desmos Graphing Calculator (https://www.desmos.com/calculator)
+
+• Teacher Prep Notes
+  - Emphasize interpreting coefficients with real meaning.
+  - Provide an anchor chart of regression terms.
+
+
+Day 9 – Connecting Demand to Profit Concepts
+--------------------------------------------
+• Learning Goals
+  - Introduce cost, revenue, and profit formulas.
+  - Connect linear models to quadratic profit models.
+
+• Activities / Student Tasks
+  - Practice calculating revenue and cost from sample data.
+  - Discuss “break-even” and “profit zone.”
+
+• Deliverables / Reflection Checkpoints
+  - Completed practice sheet with cost/revenue/profit calculations.
+
+• Key Resources
+  • Cost, Revenue, Profit Functions – BBC Bitesize (https://www.bbc.co.uk/bitesize/guides/zqxv6yc/revision/1)
+
+• Teacher Prep Notes
+  - Prepare quick real-world pricing scenarios.
+  - Reinforce vocabulary (revenue, cost, profit).
+
+
+Day 10 – Practice Calculating Profit
+------------------------------------
+• Learning Goals
+  - Use profit equations in applied settings.
+  - Prepare for graphing quadratic relationships.
+
+• Activities / Student Tasks
+  - Work through profit equation examples (coffee, mugs, etc.).
+  - Identify variables and constants in equations.
+
+• Deliverables / Reflection Checkpoints
+  - Profit worksheet.
+
+• Key Resources
+  • N/A
+
+• Teacher Prep Notes
+  - Pre-make profit equation problem sets.
+  - Provide solution key for self-checking.
+
+
+Day 11 – Graphing Profit Equations
+----------------------------------
+• Learning Goals
+  - Graph quadratic profit equations and identify key features.
+  - Interpret real-world meaning of the vertex and intercepts.
+
+• Activities / Student Tasks
+  - Graph quadratic profit equations using Desmos.
+  - Identify vertex (maximum profit) and intercepts.
+
+• Deliverables / Reflection Checkpoints
+  - Completed profit graphs with annotations.
+
+• Key Resources
+  • Desmos Graphing Calculator (https://www.desmos.com/calculator)
+  • Identifying Features of a Quadratic Function – Khan Academy (https://www.khanacademy.org/math/algebra-home/alg-quadratics/alg-solving-quadratics-using-the-quadratic-formula/v/quadratic-formula-1)
+
+• Teacher Prep Notes
+  - Model vertex interpretation in context.
+  - Ensure all groups record graph screenshots or exports.
+
+
+Day 12 – Linking Linear and Quadratic Relationships
+---------------------------------------------------
+• Learning Goals
+  - Connect the demand line and profit parabola relationships.
+  - Determine optimal price based on vertex x-value.
+
+• Activities / Student Tasks
+  - Explore how slope and vertex interact.
+  - Solve for “best price” and explain reasoning.
+
+• Deliverables / Reflection Checkpoints
+  - Written explanation of best price reasoning.
+
+• Key Resources
+  • Desmos Graphing Calculator (https://www.desmos.com/calculator)
+
+• Teacher Prep Notes
+  - Revisit previous regression results for consistency.
+  - Prepare visual demo showing demand line vs. profit parabola.
+
+
+Day 13 – Drafting Individual Market Analysis Reports
+----------------------------------------------------
+• Learning Goals
+  - Apply all calculations and graphs to one selected product.
+  - Begin structured technical writing with data.
+
+• Activities / Student Tasks
+  - Write Mathematical Market Analysis Report.
+  - Include table, regression, and profit graph.
+
+• Deliverables / Reflection Checkpoints
+  - Draft report with visuals inserted.
+
+• Key Resources
+  • None (students rely on previous data and Desmos exports)
+
+• Teacher Prep Notes
+  - Provide digital templates or printed report layout pages.
+  - Check graph/image formatting issues.
+
+
+Day 14 – Gallery Walk and Peer Feedback
+---------------------------------------
+• Learning Goals
+  - Evaluate and provide feedback on peer analysis.
+  - Revise based on constructive criticism.
+
+• Activities / Student Tasks
+  - Participate in gallery walk.
+  - Review peers’ graphs and reports.
+
+• Deliverables / Reflection Checkpoints
+  - Feedback notes and revised drafts.
+
+• Key Resources
+  • N/A
+
+• Teacher Prep Notes
+  - Prepare display space or digital gallery.
+  - Encourage positive and specific comments.
+
+
+Day 15 – Team Market Research Proposal
+--------------------------------------
+• Learning Goals
+  - Combine team members’ analyses into one cohesive proposal.
+  - Practice collaborative writing and synthesis.
+
+• Activities / Student Tasks
+  - Use Market Research Proposal Template.
+  - Draft executive summary and conclusions.
+
+• Deliverables / Reflection Checkpoints
+  - Draft team proposal.
+
+• Key Resources
+  • Market Research Proposal Template (provided in planner)
+
+• Teacher Prep Notes
+  - Print or share example proposal.
+  - Clarify division of labor among teammates.
+
+
+Day 16 – Peer Revision and Feedback Exchange
+--------------------------------------------
+• Learning Goals
+  - Strengthen communication and analytical writing.
+  - Use peer critique to improve final proposal.
+
+• Activities / Student Tasks
+  - Exchange reports with another team for feedback.
+  - Revise report using checklist.
+
+• Deliverables / Reflection Checkpoints
+  - Updated proposal ready for presentation.
+
+• Key Resources
+  • N/A
+
+• Teacher Prep Notes
+  - Build in structured peer-review rubrics.
+  - Allocate time for revisions next day.
+
+
+Day 17 – Planning Presentations
+-------------------------------
+• Learning Goals
+  - Organize information visually and verbally for a professional audience.
+  - Practice clear, concise presentation skills.
+
+• Activities / Student Tasks
+  - Design slides showing key data and graphs.
+  - Assign speaking roles and rehearse timing.
+
+• Deliverables / Reflection Checkpoints
+  - Draft presentation slides.
+
+• Key Resources
+  • N/A
+
+• Teacher Prep Notes
+  - Review slide clarity and alignment.
+  - Prepare presentation feedback form.
+
+
+Day 18 – Presentation Rehearsal
+-------------------------------
+• Learning Goals
+  - Refine timing, delivery, and explanation of data.
+  - Strengthen team coordination.
+
+• Activities / Student Tasks
+  - Conduct practice presentations.
+  - Receive peer feedback and make adjustments.
+
+• Deliverables / Reflection Checkpoints
+  - Finalized slide deck.
+
+• Key Resources
+  • N/A
+
+• Teacher Prep Notes
+  - Emphasize professionalism and audience engagement.
+  - Run short peer review sessions between groups.
+
+
+Day 19 – Client Presentations and Final Reflection
+-------------------------------------------------
+• Learning Goals
+  - Present final proposals and justify pricing recommendations.
+  - Reflect on project learning and collaboration.
+
+• Activities / Student Tasks
+  - Present Market Research Proposals to business owners.
+  - Collect and discuss feedback.
+  - Complete written reflection on learning process.
+
+• Deliverables / Reflection Checkpoints
+  - Final proposal presentation.
+  - Student self-reflection forms.
+
+• Key Resources
+  • Law of Demand – Khan Academy (https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand/v/law-of-demand)
+
+• Teacher Prep Notes
+  - Invite local business or community representatives.
+  - Reserve space for presentations and record feedback summaries.
+"""

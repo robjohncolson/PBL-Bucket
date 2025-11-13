@@ -1,0 +1,540 @@
+{
+  "restaurant": {
+    "name": "Golden Monkey Cafe",
+    "address": "468 Chestnut Street, Lynn, MA 01902",
+    "phone": "(781) 778-3342"
+  },
+  "menu": {
+    "starters": [
+      {
+        "name": "Golden Platter",
+        "description": "This all in one platter comes with Egg Rolls, Shrimp Rolls, Crab Rangoon Rolls, and Wings",
+        "price": 20.70
+      },
+      {
+        "name": "Egg Rolls (Szaw Yaw)",
+        "description": "These crispy bites are filled with ground pork, vermicili noodles, cabbage, carrots and taro",
+        "price": 5.35
+      },
+      {
+        "name": "Spring Rolls (Nam Chow)",
+        "description": "made to order rolled in rice paper, comes with pork and shrimp, cucumber carrotts, bean sprouts, mint and vermicili dipped in either fish sauce or peanut sauce",
+        "price": 9.45
+      },
+      {
+        "name": "Crab Rangoon Rolls (Kdam Roum)",
+        "description": "Crab Rangoon Filling rolled in a spring roll wrap and deep fried to a crispy crunch.",
+        "price": 5.35
+      },
+      {
+        "name": "Shrimp Rolls (Pakea Roum)",
+        "description": "Lightly seasoned shrimp rolled in a spring roll wrap and fried for a crispy bite",
+        "price": 6.35
+      },
+      {
+        "name": "Lemon Grass Beef Skewers (Sach Ko Chakak)",
+        "description": "Marinated with the Cambodian traditional lemongrass beef skewers",
+        "price": 8.40
+      },
+      {
+        "name": "Lemon Grass Chicken Skewers (Sach Mon Chakak)",
+        "description": "Lemongrass marinated chicken skewers",
+        "price": 8.40
+      },
+      {
+        "name": "Beef Jerky (Sach Ko Nyeat)",
+        "description": "Thinly sliced beef seasoned and dehydrated to a chip 2.5 ounces",
+        "price": 7.40
+      },
+      {
+        "name": "Banana Fritters (Jake Chean)",
+        "description": "Namva bananas battered and deep fried and topped off with black sesame seeds",
+        "price": 6.35,
+        "available": false
+      }
+    ],
+    "wings": [
+      {
+        "name": "6 pcs Wings",
+        "description": "",
+        "price": 6.90
+      },
+      {
+        "name": "12 pc Wings",
+        "description": "",
+        "price": 13.40
+      },
+      {
+        "name": "20 pc Wings",
+        "description": "",
+        "price": 21.40
+      }
+    ],
+    "rice_plates": [
+      {
+        "name": "Combination Special (Bai Srope)",
+        "description": "This triple delight plate comes with Loc Lak (beef), Wings, and Pork chops and served with jasmine or fried rice.",
+        "price": 20.70
+      },
+      {
+        "name": "Diced Beef & Rice (Bai Loc Lak)",
+        "description": "This hearty meal has al the beef. Shredded beef stir fry topped with cilantro and black pepper is served with jasmine rice or fried rice",
+        "price": 14.05
+      },
+      {
+        "name": "Porkchops & Rice (Bai Sach Chrouk)",
+        "description": "Marinated center cut pork chops seared and caramelized to a finger licking deliciousness is served with jasmine or fried rice.",
+        "price": 14.05
+      },
+      {
+        "name": "Wings & Rice (Bai Slap Mon)",
+        "description": "Your favorite wings (choose wing flavor or not) served with jasmine or fried rice",
+        "price": 14.05
+      },
+      {
+        "name": "Ginger Stir Fry & Rice (Cha Kanye)",
+        "description": "Thinly sliced beef or chicken stir fried with finely diced ginger that packs the kick you want for your taste buds. Served with jasmine or fried rice",
+        "price": 14.05
+      },
+      {
+        "name": "Crispy Chicken & Rice (Bai Sach Mon)",
+        "description": "Breaded chicken is crispy on every bite. Served with jasmine or fried rice. Make sure you add that sweet chili sauce to this dish.",
+        "price": 14.05
+      },
+      {
+        "name": "Traditional Stir Fry & Rice (Cha Kreung)",
+        "description": "Heavy on the lemongrass paste this dish is a traditional stir fry. served with jasmine or fried rice. Crushed peanut served on the side. Can be made spicy to your liking.",
+        "price": 14.05
+      }
+    ],
+    "noodle_plates": [
+      {
+        "name": "Lo Mien (Mee Cha)",
+        "description": "Yellow egg noodles pan fried and mixed with finely cut cabbage and carrots.",
+        "price": 14.05
+      },
+      {
+        "name": "Flat Rice Noodles (Mekathang)",
+        "description": "Watch out for that food coma coming your way with his plate. Flat rice noodles pan fried with Chinese broccoli, carrots, straw mushrooms and baby corn. Can be served saucy or dry.",
+        "price": 15.60
+      },
+      {
+        "name": "Vermicelli Salad (Banh Zong)",
+        "description": "Vermicelli white rice noodles mixed with bean sprouts, lettuce, cucumbers and carrots is served with strips of pork and egg rolls. Crushed peanuts and fish sauce are served on the side",
+        "price": 14.05
+      },
+      {
+        "name": "Round Rice Noodles (Lort Cha)",
+        "description": "Also known as a tear drop noodle, this dish is a very popular Cambodian street food that is served with bean sprouts and chives. Crushed peanuts and fish sauce is served on the side.",
+        "price": 14.05
+      },
+      {
+        "name": "Pad Thai (Kathiew Cha)",
+        "description": "Cambodian take on pad thai is tossed with scallion and bean sprouts. crushed peanuts and fish sauce is served on the side.",
+        "price": 14.05
+      }
+    ],
+    "soup": [
+      {
+        "name": "Rice Noodle Soup",
+        "description": "Soul warming soup is sure to satisfy. Our version of \"Pho\"' one major difference is that we don't use star anis and cinnamon sticks in our broth, rather cabbage and carrots.",
+        "price": 15.60
+      },
+      {
+        "name": "Khmer Ramen",
+        "description": "Wei Wei Ramen served with bok choy and sprouts and choice of meat or not.",
+        "price": 13.55
+      },
+      {
+        "name": "Bean Thread Soup",
+        "description": "This super vegetarian special comes with straw and enoki mushrooms, bok choy, sprouts and baby corn. The noodles in this soup are made from bean threads.",
+        "price": 13.55
+      }
+    ],
+    "little_monkeys": [
+      {
+        "name": "2 Wings, 2 Egg Rolls & Rice",
+        "description": "Two wings, two egg rolls and rice or lo mien.",
+        "price": 8.40
+      },
+      {
+        "name": "2 Beef Skewers, 2 Egg Rolls & Rice",
+        "description": "Two beef skewers, two egg rolls, and rice or lo mien.",
+        "price": 8.40
+      },
+      {
+        "name": "2 Chicken Skewers, 2 Egg Rolls & Rice",
+        "description": "Two chicken skewers, two egg rolls with rice or lo mien",
+        "price": 8.40
+      },
+      {
+        "name": "3 Wings & Fries",
+        "description": "3 wings and French fries.",
+        "price": 8.40
+      },
+      {
+        "name": "3 Fingers & Fries",
+        "description": "Crispy chicken cut to three fingers and fries",
+        "price": 8.40
+      }
+    ],
+    "salads": [
+      {
+        "name": "Papaya Salad",
+        "description": "Shredded Young papaya tossed into a pestle and mortar along with tomatoes, carrots, and green beans. How spicy do you want it?",
+        "price": 12.50
+      },
+      {
+        "name": "Steak Salad",
+        "description": "Thinly sliced steak over a plate of mixed greens including red and green peppers, green beans cabbage and red cabbage and sprouts.",
+        "price": 10.45
+      },
+      {
+        "name": "Cambodian Slaw",
+        "description": "Shredded chicken tossed in a bed of cabbage, peppers, carrots and sprouts and served with fish sauce dressing.",
+        "price": 10.45
+      }
+    ],
+    "vegetarian": [
+      {
+        "name": "Pan Fried Five Vegtables",
+        "description": "Green and red peppers pan fried with carrots, broccoli and green beans.",
+        "price": 11.50
+      },
+      {
+        "name": "Tofu Stir Fry",
+        "description": "Tasty tofu is a plant based protein that both meat lovers and vegetarians may enjoy. this dish pairs tofu with fresh chives and bean sprouts to pack the perfect dish",
+        "price": 11.50
+      }
+    ],
+    "sides": [
+      {
+        "name": "Khmer Fried Rice",
+        "description": "Our fried rice consist of pork and Chinese sausage that is mixed with peas and carrots to round out the ingredients in the house fried rice",
+        "price": 5.85
+      },
+      {
+        "name": "Jasmine Rice",
+        "description": "Jasmine rice is a staple to South East Asia and is the base to all our rice plates.",
+        "price": 5.35
+      },
+      {
+        "name": "Fries",
+        "description": "shoe string fries",
+        "price": 3.30
+      },
+      {
+        "name": "Soup broth",
+        "description": "",
+        "price": 1.50
+      }
+    ],
+    "sauces": [
+      {
+        "name": "Peanut Sauce",
+        "description": "0.75 oz",
+        "price": 0.50,
+        "available": false
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "description": "0.75 oz",
+        "price": 0.50
+      },
+      {
+        "name": "HotnuMon sauce",
+        "description": "1.25 oz",
+        "price": 1.00
+      },
+      {
+        "name": "Fish Sauce",
+        "description": "",
+        "price": 0.50
+      },
+      {
+        "name": "Lemon Pepper",
+        "description": "",
+        "price": 0.50
+      },
+      {
+        "name": "Pepper Soy",
+        "description": "",
+        "price": 0.50
+      },
+      {
+        "name": "Siracha Packets",
+        "description": "",
+        "price": 0.25
+      },
+      {
+        "name": "Hoisen Packets",
+        "description": "",
+        "price": 0.25
+      },
+      {
+        "name": "Soy Sauce Packets",
+        "description": "",
+        "price": 0.00
+      },
+      {
+        "name": "Duck Sauce Packets",
+        "description": "",
+        "price": 0.00
+      },
+      {
+        "name": "Ketchup Packets",
+        "description": "",
+        "price": 0.00
+      },
+      {
+        "name": "Lemon grass",
+        "description": "",
+        "price": 0.50
+      }
+    ],
+    "beverages": {
+      "canned": [
+        {
+          "name": "Coca-Cola",
+          "description": "Coca-Cola's crisp, refreshing taste has stood the test of time since 1886.",
+          "price": 2.30
+        },
+        {
+          "name": "Diet Coke",
+          "description": "Enjoy a break with Diet Coke, the perfect no-sugar, no-calorie companion.",
+          "price": 2.30
+        },
+        {
+          "name": "Sprite",
+          "description": "Sprite's cool and crisp lemon-lime flavor will keep you invigorated and inspired.",
+          "price": 2.30
+        },
+        {
+          "name": "Water",
+          "description": "",
+          "price": 1.75
+        },
+        {
+          "name": "Ginger Ale",
+          "description": "",
+          "price": 2.30
+        },
+        {
+          "name": "Coconut Juice",
+          "description": "",
+          "price": 2.80
+        },
+        {
+          "name": "Soy Milk",
+          "description": "",
+          "price": 2.80
+        },
+        {
+          "name": "Grass Jelly Drink",
+          "description": "",
+          "price": 2.80
+        },
+        {
+          "name": "Lychee juice",
+          "description": "",
+          "price": 2.80
+        },
+        {
+          "name": "Basil Seed Drink",
+          "description": "",
+          "price": 2.80
+        },
+        {
+          "name": "Juice Boxes",
+          "description": "",
+          "price": 1.25
+        }
+      ],
+      "ice_coffee": [
+        {
+          "name": "Condensed Milk Ice Coffee",
+          "description": "",
+          "price": 5.35
+        },
+        {
+          "name": "Coconut Ice Coffee",
+          "description": "",
+          "price": 5.35
+        }
+      ],
+      "smoothies": [
+        {
+          "name": "Avocado Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Banana Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Blueberry Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Coconut Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Coffee Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Dragon Fruit Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Durain Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Honey Dew Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Lychee Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Mango Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Matcha Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Mocha Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Passion Fruit Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Peach Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Pineapple Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Strawberry Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Taro Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Thai Smoothie",
+          "price": 5.35
+        },
+        {
+          "name": "Watermelon Smoothie",
+          "price": 5.35
+        }
+      ],
+      "fruit_teas": [
+        {
+          "name": "Banana Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Dragon Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Honey Dew Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Lychee Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Passion Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Peach Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Pineapple Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Strawberry Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Watermelon Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Mango Fruit Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Blueberry Fruit Tea",
+          "price": 5.35
+        }
+      ],
+      "milk_teas": [
+        {
+          "name": "Brown Sugar Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Coconut Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Coffee Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Honey Dew Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Mango Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Matcha Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Taro Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Thai Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Strawberry Milk Tea",
+          "price": 5.35
+        },
+        {
+          "name": "Watermelon Milk Tea",
+          "price": 5.35
+        }
+      ],
+      "shaved_ice": [
+        {
+          "name": "Shaved Ice",
+          "price": 4.85
+        }
+      ]
+    }
+  }
+}
+

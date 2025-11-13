@@ -1,0 +1,1124 @@
+{
+  "restaurant": "Mandee's Pizza",
+  "menu": {
+    "pizzas": [
+      {
+        "name": "Cheese",
+        "crust": "Original Hand-Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese"],
+        "prices": {"Personal": 7.50, "Med 12\"": 12, "Large 16\"": 16, "20\"": 23}
+      },
+      {
+        "name": "Sicilian",
+        "crust": "Sicilian Extra Thick Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese"],
+        "prices": {"Personal": 8.50, "Med 12\"": 13, "Large 16\"": 18, "20\"": 24}
+      },
+      {
+        "name": "Cheeseburger",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "American Cheese", "Hamburger", "Pickles", "Onions", "American Cheese"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.95, "20\"": 26}
+      },
+      {
+        "name": "Chicken Alfredo",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Alfredo Sauce", "Mozzarella Cheese", "Grilled Chicken", "Broccoli"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.95, "20\"": 26}
+      },
+      {
+        "name": "Chicken Picatta",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Lemon & Garlic Sauce", "Parmesan Cheese", "Grilled Chicken", "Fresh Tomatoes", "Capers", "Caramelized Onions"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.95, "20\"": 26}
+      },
+      {
+        "name": "Buffalo Chicken",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Buffalo Chicken", "Side Blue Cheese"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.55, "20\"": 26}
+      },
+      {
+        "name": "Mediterranean",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Olive Oil", "Mozzarella Cheese", "Feta Cheese", "Spinach", "Fresh Garlic", "Fresh Tomatoes", "Onions", "Feta Cheese"],
+        "prices": {"Personal": 11, "Med 12\"": 15.65, "Large 16\"": 20.85, "20\"": 25}
+      },
+      {
+        "name": "Chicken Parm",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Chicken Cutlet"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Chicken Kabob",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Olive Oil", "Mozzarella Cheese", "Feta Cheese", "Grilled Chicken", "Fresh Tomatoes", "Caramelized Onions", "Feta Cheese", "Side Greek Dressing"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Meat Lover's",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Hamburger", "Pepperoni", "Ham", "Sausage"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Mexican Sizzler",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Salsa Sauce", "Mozzarella Cheese", "Hamburger", "Black Olives", "Onions", "Jalapeno Peppers"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Royal Hawaiian",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Ham", "Pineapple", "Cherries"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Greek Treasure",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Feta Cheese", "Feta Cheese", "Hamburger", "Green Pepper"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Veggie",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Onions", "Green Peppers", "Mushrooms", "Broccoli"],
+        "prices": {"Personal": 11, "Med 12\"": 15, "Large 16\"": 19, "20\"": 25}
+      },
+      {
+        "name": "Californian",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Turkey", "Bacon", "Broccoli"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Fresh Tomato & Ham",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Olive Oil", "Mozzarella Cheese", "Fresh Tomatoes", "Ham", "Onions", "Black Pepper"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Jalapeno Popper",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Olive Oil", "Cheddar & Jack Cheese", "Cream Cheese", "Jalapeno Peppers", "Fresh Garlic", "Bacon"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.95, "20\"": 26}
+      },
+      {
+        "name": "Ziti Chicken Broccoli Alfredo",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Alfredo Sauce", "Mozzarella Cheese", "Ziti", "Grilled Chicken", "Broccoli"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Chicken Ranch",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Ranch Sauce", "Mozzarella Cheese", "Grilled Chicken", "Bacon", "Fresh Tomatoes"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Steak & Cheese",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "American Cheese", "Steak", "American Cheese"],
+        "prices": {"Personal": 13, "Med 12\"": 17, "Large 16\"": 24, "20\"": 27}
+      },
+      {
+        "name": "Mandee's Combo",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni", "Green Peppers", "Salami", "Mushrooms"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.85, "20\"": 26}
+      },
+      {
+        "name": "Spicy Thai Basil Chicken",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Spicy Thai Peanut Sauce", "Mozzarella Cheese", "Grilled Chicken", "Fresh Basil", "Julienne Carrots", "Roasted Garlic"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20, "20\"": 26}
+      },
+      {
+        "name": "Eggplant Parm",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Provolone Cheese", "Eggplant (Breaded)", "Provolone Cheese"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Steak Bomb",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "American Cheese", "Steak", "Grilled Onions", "Green Peppers", "Mushrooms", "Salami", "American Cheese"],
+        "prices": {"Personal": 13, "Med 12\"": 18, "Large 16\"": 25, "20\"": 30}
+      },
+      {
+        "name": "Steak Tips",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Steak Tips", "Grilled Onions", "Green Peppers", "Mushrooms"],
+        "prices": {"Personal": 14.5, "Med 12\"": 22.95, "Large 16\"": 28.95, "20\"": 33.95}
+      },
+      {
+        "name": "Mandee's Supreme",
+        "crust": "Sicilian Extra Thick Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni", "Sausage", "Salami", "Ham", "Hamburger", "Meatballs", "Kielbasa", "Onions", "Green Peppers", "Mushrooms", "Pineapple", "Cherries", "Black Olives", "Extra Cheese"],
+        "prices": {"Med 12\"": 24, "Large 16\"": 34}
+      },
+      {
+        "name": "Bianco",
+        "crust": "Thin Crust",
+        "toppings": ["Olive Oil", "Mozzarella Cheese", "Feta Cheese", "Fresh Garlic", "Fresh Tomatoes", "Grilled Onions", "Feta Cheese"],
+        "prices": {"Personal": 11, "Med 12\"": 15.95, "Large 16\"": 18.95, "20\"": 25}
+      },
+      {
+        "name": "Italian Cold Cut",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Provolone Cheese", "Pepperoni", "Salami", "Mortadella", "Provolone Cheese", "Black Pepper", "Oregano"],
+        "prices": {"Personal": 11, "Med 12\"": 17, "Large 16\"": 22, "20\"": 26}
+      },
+      {
+        "name": "Florentine",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Grilled Chicken", "Fresh Tomatoes", "Fresh Garlic", "Black Pepper"],
+        "prices": {"Personal": 11.7, "Med 12\"": 17, "Large 16\"": 21.79, "20\"": 26.79}
+      },
+      {
+        "name": "Margherita",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Parmesan Cheese", "Fresh Mozzarella", "Olive Oil", "Fresh Tomatoes", "Fresh Basil", "Black Pepper", "Oregano"],
+        "prices": {"Personal": 11, "Med 12\"": 15, "Large 16\"": 20, "20\"": 25}
+      },
+      {
+        "name": "Chicken Caesar",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Caesar Dressing", "Parmesan Cheese", "Grilled Chicken"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Gluten Free Cheese",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese"],
+        "prices": {"single": 16.00}
+      },
+      {
+        "name": "Spicy Luau",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Jalapeno Peppers", "Bacon", "Pineapple"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Bees Knees",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Pepperoni", "Bacon", "Sausage", "Drizzled With Mikes Hot Honey"],
+        "prices": {"Personal": 11, "Med 12\"": 17, "Large 16\"": 23, "20\"": 30}
+      },
+      {
+        "name": "Mandees Breakfast Pizza",
+        "crust": "Original Hand Tossed Crust",
+        "toppings": ["Monterey Jack & Cheddar Cheese", "Egg", "Sausage", "Onions", "Bacon", "Fresh Tomatoes"],
+        "prices": {"Personal": 12, "Med 12\"": 18, "Large 16\"": 22, "20\"": 28}
+      }
+    ],
+    "calzones": [
+      {
+        "name": "Cheese",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Side Marinara"],
+        "prices": {"Personal": 8, "Med 12\"": 12.5, "Large 16\"": 16, "20\"": 23}
+      },
+      {
+        "name": "Cheeseburger",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Hamburger", "Pickles", "Onions", "American Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Chicken Kabob",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Grilled Chicken", "Fresh Tomatoes", "Onions", "Feta Cheese", "Side of Greek"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Mediterranean",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Fresh Garlic", "Fresh Tomatoes", "Onions", "Spinach", "Feta Cheese", "Salt", "Black Pepper", "Oregano", "Side Marinara", "Oregano"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Royal Hawaiian",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Ham", "Pineapple", "Cherries", "American Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Greek Treasure",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Feta Cheese", "Hamburger", "Green Peppers", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Californian",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Turkey", "Bacon", "Broccoli", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Mexican Sizzler",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Salsa Sauce", "Hamburger", "Black Olives", "Onions", "Jalapeno Peppers", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Meat Lover's",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Hamburger", "Pepperoni", "Ham", "Sausage", "American Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Veggie",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Onions", "Green Peppers", "Mushrooms", "Broccoli", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Fresh Tomato & Ham",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Fresh Tomatoes", "Ham", "Onions", "American Cheese", "Black Pepper", "Salt", "Oregano", "Side Marinara", "Oregano"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Ziti Chicken Broccoli Alfredo",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Alfredo Sauce", "Ziti", "Grilled Chicken", "Broccoli", "Provolone Cheese", "Romano Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 22, "20\"": 26}
+      },
+      {
+        "name": "Chicken Parm",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Tomato Sauce", "Mozzarella", "Chicken Cutlet", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Eggplant Parm",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Tomato Sauce", "Mozzarella", "Eggplant (Breaded)", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Meatball Parm",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Tomato Sauce", "Meatballs", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.95, "20\"": 26}
+      },
+      {
+        "name": "Chix & Eggplant Parm",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Tomato Sauce", "Chicken Cutlet", "Eggplant", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21.25, "20\"": 26}
+      },
+      {
+        "name": "Steak & Cheese",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Steak", "American Cheese", "Side Marinara"],
+        "prices": {"Personal": 13, "Med 12\"": 16.95, "Large 16\"": 23.95, "20\"": 27}
+      },
+      {
+        "name": "Buffalo Chicken",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Buffalo Chicken", "Provolone Cheese", "Side Blue Cheese"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Chicken Alfredo",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Alfredo Sauce", "Grilled Chicken", "Broccoli", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 20.87, "20\"": 26}
+      },
+      {
+        "name": "Mandee's Combo",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Pepperoni", "Green Peppers", "Salami", "Mushrooms", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Steak Bomb",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Steak", "Grilled Onions", "Green Peppers", "Mushrooms", "Salami", "American Cheese", "Side Marinara"],
+        "prices": {"Personal": 13, "Med 12\"": 18.25, "Large 16\"": 25.25, "20\"": 30.25}
+      },
+      {
+        "name": "Steak Tips",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Grilled Onions", "Green Peppers", "Mushrooms", "American Cheese", "Side Marinara"],
+        "prices": {"Personal": 15.55, "Med 12\"": 23, "Large 16\"": 29, "20\"": 34}
+      },
+      {
+        "name": "Mandee's Supreme",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Pepperoni", "Sausage", "Salami", "Ham", "Hamburger", "Meatballs", "Kielbasa", "Onions", "Green Peppers", "Mushrooms", "Pineapple", "Cherries", "Anchovies", "Black Olives", "Extra Cheese", "Side Marinara"],
+        "prices": {"Med 12\"": 25, "Large 16\"": 35}
+      },
+      {
+        "name": "Bianco",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Fresh Garlic", "Fresh Tomatoes", "Grilled Onions", "Feta Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 18.95, "20\"": 26}
+      },
+      {
+        "name": "Italian Cold Cut",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Pepperoni", "Salami", "Mortadella", "Provolone Cheese", "Salt", "Black Pepper", "Oregano", "Side Marinara", "Oregano"],
+        "prices": {"Personal": 11, "Med 12\"": 17, "Large 16\"": 22, "20\"": 26}
+      },
+      {
+        "name": "Chicken Picatta",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Creamy Lemon&Garlic Sauce", "Grilled Chicken", "Fresh Tomatoes", "Capers", "Caramelized Onions", "Provolone Cheese", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Spicy Thai Basil Chicken",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Spicy Thai Peanut Sauce", "Roasted Garlic", "Fresh Basil", "Julienne Carrots", "Grilled Chicken", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Spicy Luau",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Jalapeno Peppers", "Bacon", "American Cheese", "Pineapple", "Side Marinara"],
+        "prices": {"Personal": 12.40, "Med 12\"": 18, "Large 16\"": 24.58, "20\"": 29.58}
+      },
+      {
+        "name": "Chicken Bacon Ranch",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Monterey Jack & Cheddar Cheese", "Mozzarella", "Grilled Chicken", "Fresh Tomatoes", "Bacon", "Provolone Cheese", "Side Ranch"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Chicken Caesar",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Parmesan Cheese", "Caesar Dressing", "Grilled Chicken", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      },
+      {
+        "name": "Bees Knees",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Mozzarella", "Pepperoni", "Bacon", "Sausage", "Mikes Hot Honey", "Side Marinara"],
+        "prices": {"Personal": 11, "Med 12\"": 17, "Large 16\"": 23, "20\"": 30}
+      },
+      {
+        "name": "Jalapeno Popper",
+        "crust": "Original Hand Tossed Crust",
+        "fillings": ["Cream Cheese", "Mozzarella", "Jalapeno Peppers", "Fresh Garlic", "Bacon", "Side Ranch"],
+        "prices": {"Personal": 11, "Med 12\"": 16, "Large 16\"": 21, "20\"": 26}
+      }
+    ],
+    "hot_subs": [
+      {
+        "name": "Buffalo Finger",
+        "ingredients": ["Lettuce", "Tomato", "Buffalo Sauce", "Blue Cheese", "Buffalo Finger", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Roast Beef",
+        "ingredients": ["Roast Beef", "Salt", "Blk Pepper", "Grilled Bun"],
+        "prices": {"Sandwich": 8, "Pita": 10.5, "Sub": 10.5, "White Wrap": 10.5, "Wheat Wrap": 10.5}
+      },
+      {
+        "name": "Eggplant",
+        "ingredients": ["Salt", "Blk Pepper", "Eggplant", "Grilled Bun"],
+        "prices": {"Sandwich": 6, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "BLT",
+        "ingredients": ["Lettuce", "Tomato", "Mayo", "Salt", "Blk Pepper", "Bacon", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Cheese Burger",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Cheeseburger", "Grilled Bun"],
+        "prices": {"Sandwich": 5.5, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Chicken Finger",
+        "ingredients": ["Salt", "Blk Pepper", "Chicken Finger", "Grilled Bun"],
+        "prices": {"Sandwich": 6, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Chicken Cutlet",
+        "ingredients": ["Salt", "Blk Pepper", "Chicken Cutlet", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Meatball",
+        "ingredients": ["Tomato Sauce", "Salt", "Blk Pepper", "Meatballs", "Grilled Bun"],
+        "prices": {"Sandwich": 6, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Hamburger",
+        "ingredients": ["Salt", "Blk Pepper", "Hamburger", "Grilled Bun"],
+        "prices": {"Sandwich": 5.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Hot Veggie",
+        "ingredients": ["American Ch", "Grill Mushroom", "Roasted Peppers", "Grilled onions", "Lettuce", "Tomato", "Salt", "Blk Pepper", "Grilled Bun"],
+        "prices": {"Sandwich": 5.75, "Pita": 9.5, "Sub": 9.5, "White Wrap": 9.5, "Wheat Wrap": 9.5}
+      },
+      {
+        "name": "Chicken Stir Fry",
+        "ingredients": ["Roasted Peppers", "Grilled onions", "Grill Mushroom", "Salt", "Blk Pepper", "Grilled Chicken", "Grilled Bun"],
+        "prices": {"Sandwich": 6, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Chicken Kabob",
+        "ingredients": ["Grilled onions", "Tomato", "Greek Dressing", "Salt", "Blk Pepper", "Grilled Chicken", "Grilled Bun"],
+        "prices": {"Sandwich": 6.5, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Chicken Parm",
+        "ingredients": ["Mozzarella Ch", "Tomato Sauce", "Salt", "Blk Pepper", "Chicken Cutlet", "Toasted Bread", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Hot Ham & Cheese",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Ham", "Grilled Bun"],
+        "prices": {"Sandwich": 6, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Egg",
+        "ingredients": ["Salt", "Blk Pepper", "Egg", "Grilled Bun"],
+        "prices": {"Sandwich": 5.5, "Pita": 9, "Sub": 9, "White Wrap": 9, "Wheat Wrap": 9}
+      },
+      {
+        "name": "Meatball Pepperoni Melt",
+        "ingredients": ["Mozzarella Ch", "Blk Pepper", "Salt", "Tomato Sauce", "Meatballs", "Pepperoni", "Parm American", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Grilled Chicken",
+        "ingredients": ["Blk Pepper", "Salt", "Grilled Chicken"],
+        "prices": {"Sandwich": 6, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Sausage Pepper & Onion",
+        "ingredients": ["Grilled onions", "Roasted Peppers", "Blk Pepper", "Salt", "Sausage", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Chicken Bacon Ranch Melt",
+        "ingredients": ["Cheddar Jack Chz", "Lettuce", "Tomato", "Ranch", "Blk Pepper", "Salt", "Chicken Finger", "Bacon", "Grilled Bun"],
+        "prices": {"Sandwich": 6.5, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "Eggplant w Roasted Pepper",
+        "ingredients": ["Roasted Peppers", "Blk Pepper", "Salt", "Eggplant (Breaded)", "Grilled Bun"],
+        "prices": {"Sandwich": 6.25, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      },
+      {
+        "name": "North Shore Three Way",
+        "ingredients": ["Lots Of Thin Sliced Roast Beef", "Mayo", "American Cheese", "James River BBQ", "inside A Buttered Grilled Bun"],
+        "prices": {"Sandwich": 9.75, "Pita": 12, "Sub": 12, "White Wrap": 12, "Wheat Wrap": 12}
+      },
+      {
+        "name": "Chicken Bomb",
+        "ingredients": ["American Ch", "Grill Mushroom", "Grilled onions", "Roasted Peppers", "Blk Pepper", "Salt", "Grilled Chicken", "Salami"],
+        "prices": {"Pita": 10.99, "Sub": 10.99, "White Wrap": 10.99, "Wheat Wrap": 10.99}
+      },
+      {
+        "name": "Hot and Spicy Tuna Melt",
+        "ingredients": ["American Ch", "Jalapeno", "Lettuce", "Raw Onion", "Hot Peppers", "Jalapeno Ranch", "Tuna Fish & Mayo", "Grilled Bun"],
+        "prices": {"Sandwich": 6.5, "Pita": 12, "Sub": 9.95, "White Wrap": 9.95, "Wheat Wrap": 9.95}
+      }
+    ],
+    "cold_subs": [
+      {
+        "name": "Italian",
+        "ingredients": ["Provolone Ch", "Salt", "Blk Pepper", "Salami", "Mortadella"],
+        "price": 6.25
+      },
+      {
+        "name": "Cold Veggie",
+        "ingredients": ["American Ch", "Lettuce", "Tomato", "Raw Onion", "Pickles", "Oil", "Salt", "Blk Pepper"],
+        "price": 5.50
+      },
+      {
+        "name": "Tuna",
+        "ingredients": ["Salt", "Blk Pepper", "Tuna Fish & Mayo"],
+        "price": 6.50
+      },
+      {
+        "name": "Han & Cheese",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Ham"],
+        "price": 6.50
+      },
+      {
+        "name": "Ham, Salami & CH",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Ham", "Salami"],
+        "price": 6.50
+      },
+      {
+        "name": "American",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Turkey", "Ham"],
+        "price": 6.50
+      },
+      {
+        "name": "Turkey",
+        "ingredients": ["Salt", "Blk Pepper", "Turkey"],
+        "price": 6.50
+      },
+      {
+        "name": "Salami & Cheese",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Salami"],
+        "price": 6.00
+      },
+      {
+        "name": "Chicken Salad",
+        "ingredients": ["Salt", "Blk Pepper", "Chicken Salad W/ Mayo"],
+        "price": 7.00
+      }
+    ],
+    "steak_subs": [
+      {
+        "name": "Plain Steak",
+        "ingredients": ["Salt", "Blk Pepper", "Shaved Steak"],
+        "prices": {"Pita": 9.5, "Sub": 9.59, "White Wrap": 9.59, "Wheat Wrap": 9.59}
+      },
+      {
+        "name": "Cheese Steak",
+        "ingredients": ["American Ch", "Salt", "Blk Pepper", "Shaved Steak"],
+        "prices": {"Pita": 9.99, "Sub": 9.99, "White Wrap": 9.99, "Wheat Wrap": 9.99}
+      },
+      {
+        "name": "Steak & Egg",
+        "ingredients": ["Salt", "Blk Pepper", "Shaved Steak"],
+        "prices": {"Pita": 11.25, "Sub": 11.25, "White Wrap": 11.25, "Wheat Wrap": 11.25}
+      },
+      {
+        "name": "Steak Bomb",
+        "ingredients": ["American Ch", "Roasted Peppers", "Grilled onions", "Grill Mushroom", "Salt", "Blk Pepper", "Shaved Steak", "Salami"],
+        "prices": {"Pita": 10.99, "Sub": 10.99, "White Wrap": 10.99, "Wheat Wrap": 10.99}
+      },
+      {
+        "name": "Greek Souvlaki",
+        "ingredients": ["Feta Ch", "Tomato", "Grilled onions", "Greek Dressing", "Salt", "Blk Pepper", "Steak Tips", "Grilled Bun"],
+        "prices": {"Sandwich": 9.99, "Pita": 12.99, "Sub": 12.99, "White Wrap": 12.99, "Wheat Wrap": 12.99}
+      },
+      {
+        "name": "Steak Tip",
+        "ingredients": ["Roasted Peppers", "Grilled onions", "Salt", "Blk Pepper", "Steak Tips", "Grilled Bun"],
+        "prices": {"Sandwich": 9.99, "Pita": 13.99, "Sub": 13.99, "White Wrap": 13.99, "Wheat Wrap": 13.99}
+      }
+    ],
+    "sandwiches_burgers": [
+      {
+        "name": "Blues Burger",
+        "ingredients": ["American Ch", "Lettuce", "Tomato", "Blue Cheese", "Salt", "Blk Pepper", "Hamburger", "Bacon", "Grilled Bun"],
+        "price": 6.50
+      },
+      {
+        "name": "Fire & Ice",
+        "ingredients": ["Provolone Ch", "Jalapeno", "Ranch", "Salt", "Blk Pepper", "Hamburger", "Bacon", "Grilled Bun"],
+        "price": 6.50
+      },
+      {
+        "name": "Buffalo Chicken",
+        "ingredients": ["Lettuce", "Tomato", "Blue Cheese", "Buffalo Sauce", "Salt", "Blk Pepper", "Chicken Fingers", "Grilled Bun"],
+        "price": 6.50
+      },
+      {
+        "name": "Pizza Burger",
+        "ingredients": ["Mozzarella Ch", "Marinara", "Salt", "Blk Pepper", "Pepperoni", "Hamburger", "Grilled Bun"],
+        "price": 6.50
+      },
+      {
+        "name": "Southwest Burger",
+        "ingredients": ["Cheddar & Jack Cheese", "Roasted Peppers", "Grilled onions", "Lettuce", "Chipotle Mayo", "Salt", "Blk Pepper", "Hamburger", "Grilled Bun"],
+        "price": 6.50
+      },
+      {
+        "name": "Mediterranean Burger",
+        "ingredients": ["Feta Ch", "Grilled onions", "Tomato", "Kalamata Olives", "Blk Pepper", "Salt", "Greek Dressing", "Hamburger", "Grilled Bun"],
+        "price": 6.50
+      }
+    ],
+    "wraps": [
+      {
+        "name": "Chipotle Chicken",
+        "ingredients": ["Cheddar Jack Chz", "Caramelized Onions", "Lettuce", "Tomato", "Roasted Peppers", "Grilled Chicken", "Chipotle Sauce", "Salt", "Blk Pepper", "Grilled Bun"],
+        "prices": {"Sandwich": 6.5, "Pita": 9.95, "Sub": 9.95, "White Wrap": 9.95, "Wheat Wrap": 9.95}
+      },
+      {
+        "name": "Southbeach Tuna",
+        "ingredients": ["Lettuce", "Raw Onion", "Black Olives", "Jalapeno Ranch", "Tuna Fish & Mayo", "Grilled Bun"],
+        "prices": {"Sandwich": 6.5, "Pita": 9.95, "Sub": 9.95, "White Wrap": 9.95, "Wheat Wrap": 9.95}
+      },
+      {
+        "name": "Chicken Caesar",
+        "ingredients": ["Parmesan Cheese", "Romaine Lettuce", "Croutons", "Caesar Dressing", "Salt", "Blk Pepper", "Grilled Chicken"],
+        "prices": {"Pita": 9.95, "Sub": 9.95, "White Wrap": 9.95, "Wheat Wrap": 9.95}
+      },
+      {
+        "name": "Greek Salad",
+        "ingredients": ["Feta Ch", "Lettuce", "Tomato", "Raw Onion", "Greek Dressing", "Salt", "Blk Pepper", "Grilled Bun"],
+        "prices": {"Sandwich": 6, "Pita": 8.99, "Sub": 8.99, "White Wrap": 8.99, "Wheat Wrap": 8.99}
+      },
+      {
+        "name": "Chicken Fajita",
+        "ingredients": ["Cheddar Jack Chz", "Caramelized Onions", "Roasted Peppers", "Lettuce", "Tomato", "Salt", "Blk Pepper", "Grilled Chicken"],
+        "prices": {"Pita": 9.95, "Sub": 9.95, "White Wrap": 9.95, "Wheat Wrap": 9.95}
+      },
+      {
+        "name": "Chicken Kabob",
+        "ingredients": ["Grilled onions", "Tomato", "Greek Dressing", "Salt", "Blk Pepper", "Grilled Chicken", "Grilled Bun"],
+        "prices": {"Sandwich": 6.5, "Pita": 10, "Sub": 10, "White Wrap": 10, "Wheat Wrap": 10}
+      }
+    ],
+    "pastas": [
+      {
+        "name": "Ziti",
+        "includes": ["Garlic Bread", "Salad", "Marinara"],
+        "price": 9.99
+      },
+      {
+        "name": "Linguini",
+        "includes": ["Garlic Bread", "Salad", "Marinara"],
+        "price": 9.99
+      },
+      {
+        "name": "Ziti Chix & Eggplant",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Marinara", "Chicken Cutlet", "Eggplant (Breaded)"],
+        "price": 12.99
+      },
+      {
+        "name": "Ziti Chix & Broccoli",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Grilled Chicken", "Broccoli"],
+        "price": 12.99
+      },
+      {
+        "name": "Chicken Parm",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Marinara", "Chicken Cutlet", "Mozzarella"],
+        "price": 12.99
+      },
+      {
+        "name": "Eggplant Parm",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Marinara", "Eggplant (Breaded)", "Mozzarella"],
+        "price": 12.99
+      },
+      {
+        "name": "Sausage Parm",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Marinara", "Sausage", "Mozzarella"],
+        "price": 12.99
+      },
+      {
+        "name": "Meatball Parm",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Marinara", "Meatballs", "Mozzarella"],
+        "price": 12.99
+      },
+      {
+        "name": "Spicy Thai Basil Chicken",
+        "includes": ["Linguini", "Garlic Bread", "Salad", "Spicy Thai Peanut Sauce", "Grilled Chicken", "Roasted Garlic", "Julienne Carrots", "Fresh Basil", "Broccoli", "Mozzarella"],
+        "price": 12.99
+      },
+      {
+        "name": "Baked Ziti (Penne)",
+        "includes": ["Ziti", "Garlic Bread", "Salad", "Marinara", "Mozzarella", "Ricotta Cheese"],
+        "price": 12.99
+      },
+      {
+        "name": "Chicken Piccata Linguini Dinner",
+        "includes": ["Linguini", "Salad", "Garlic Bread", "Lemon Alfredo Sauce", "Grilled Mushrooms", "Grilled Chicken", "Fresh Tomatoes", "Capers", "Grated Cheese"],
+        "price": 13.99
+      }
+    ],
+    "dinners": [
+      {
+        "name": "Cheese Steak Sub",
+        "includes": ["Fries", "Garden Salad", "Shaved Steak", "American"],
+        "price": 16.99
+      },
+      {
+        "name": "Chicken Finger",
+        "includes": ["Fries", "Garden Salad", "Chicken Fingers"],
+        "price": 12.99
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "includes": ["Fries", "Garden Salad", "Chicken Teriyaki", "Broccoli", "Grilled Mushrooms", "Grilled Peppers", "Grilled Onion", "Carrots"],
+        "price": 14.99
+      },
+      {
+        "name": "Boneless Buffalo Finger",
+        "includes": ["Fries", "Garden Salad", "Buffalo Fingers", "Buffalo Sauce", "Blue Cheese"],
+        "price": 14.50
+      },
+      {
+        "name": "Chicken Wing Ding",
+        "includes": ["Fries", "Garden Salad", "Chicken Wing Dings"],
+        "price": 14.50
+      },
+      {
+        "name": "Buffalo Wing",
+        "includes": ["Fries", "Garden Salad", "Buffalo Wings", "Blue Cheese"],
+        "price": 14.50
+      },
+      {
+        "name": "Chicken Kabob",
+        "includes": ["Fries", "Garden Salad", "Grilled Chicken"],
+        "price": 14.99
+      },
+      {
+        "name": "Steak Tip",
+        "includes": ["Fries", "Garden Salad", "Steak Tips"],
+        "price": 18.00
+      },
+      {
+        "name": "Steak & Chicken Combo",
+        "includes": ["Fries", "Garden Salad", "Grilled Chicken", "Steak Tips"],
+        "price": 18.00
+      },
+      {
+        "name": "Roast Beef Sandwich",
+        "includes": ["Fries", "Garden Salad", "Roast Beef"],
+        "price": 13.00
+      },
+      {
+        "name": "Tuna Sandwich",
+        "includes": ["Fries", "Garden Salad", "Tuna W/ Mayo"],
+        "price": 12.99
+      },
+      {
+        "name": "Turkey Sandwich",
+        "includes": ["Fries", "Garden Salad", "Turkey"],
+        "price": 12.99
+      },
+      {
+        "name": "Ham & Cheese Sandwich",
+        "includes": ["Fries", "Garden Salad", "Ham", "American"],
+        "price": 12.99
+      },
+      {
+        "name": "Cheeseburger",
+        "includes": ["Fries", "Garden Salad", "Cheeseburger", "American"],
+        "price": 12.99
+      },
+      {
+        "name": "Chicken Cutlet Sandwich",
+        "includes": ["Fries", "Garden Salad", "Chicken Cutlet"],
+        "price": 12.99
+      },
+      {
+        "name": "Hamburger",
+        "includes": ["Fries", "Garden Salad", "Hamburger"],
+        "price": 12.99
+      },
+      {
+        "name": "BLT Sandwich",
+        "includes": ["Fries", "Garden Salad", "Lettuce", "Tomato", "Mayo", "Bacon", "Romano"],
+        "price": 12.99
+      }
+    ],
+    "rice_bowls": [
+      {
+        "name": "Brazilian Bowl",
+        "ingredients": ["Hamburger", "Black Beans", "Caramelized Onions", "Fried Egg", "Greek", "Pita Bread"],
+        "price": 12.99
+      },
+      {
+        "name": "Cacciatore Bowl",
+        "ingredients": ["Onion", "Peppers", "Mushrooms", "Marinara", "Greek", "Marinara", "Pita Bread"],
+        "price": 9.99
+      },
+      {
+        "name": "Fiesta Bowl",
+        "ingredients": ["Black Beans", "Roasted Peppers", "Caramelized Onions", "Jalapenos", "Tomato", "Mont Jack/ Cheddar Cheese", "Side Salsa", "Side Sour Cream", "Pita Bread"],
+        "price": 10.99
+      },
+      {
+        "name": "Hot Veggie Bowl",
+        "ingredients": ["Onion", "Peppers", "Olives", "Broccoli", "Mushrooms", "Spinach", "Greek", "Pita Bread"],
+        "price": 9.99
+      },
+      {
+        "name": "Meatball Bowl",
+        "ingredients": ["Meatball", "Marinara", "Greek", "Marinara", "Pita Bread"],
+        "price": 11.99
+      },
+      {
+        "name": "Mike's Bowl",
+        "ingredients": ["Broccoli", "Grilled Chicken", "Greek", "Sriracha", "Pita Bread"],
+        "price": 12.99
+      },
+      {
+        "name": "Teriyaki Chicken Stir Fry Bowl",
+        "ingredients": ["Grilled Chicken", "Onion", "Mushrooms", "Peppers", "Broccoli", "Carrots", "Teriyaki", "Greek", "Pita Bread"],
+        "price": 12.99
+      }
+    ],
+    "salads": [
+      {
+        "name": "Garden",
+        "prices": {"Small Side": 4.99, "Order": 10.25}
+      },
+      {
+        "name": "Greek",
+        "ingredients": ["Pita Bread", "Greek", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers", "Olives", "Pepperoncini", "Feta Cheese"],
+        "price": 10.75
+      },
+      {
+        "name": "Chef",
+        "ingredients": ["Pita Bread", "Greek", "American Cheese", "Ham", "Turkey", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 11.50
+      },
+      {
+        "name": "Caesar",
+        "ingredients": ["Pita Bread", "Caesar", "Romaine Lettuce", "Parmesan Cheese", "Croutons"],
+        "price": 10.75
+      },
+      {
+        "name": "Chicken Kabob",
+        "ingredients": ["Pita Bread", "Greek", "Grilled Chicken", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers", "Cabbage"],
+        "price": 13.25
+      },
+      {
+        "name": "Antipasto",
+        "ingredients": ["Pita Bread", "Greek", "Provolone Cheese", "Mozzarella Cheese", "Mortadella", "Salami", "Pepperoni", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 11.50
+      },
+      {
+        "name": "Steak Tip",
+        "ingredients": ["Pita Bread", "Greek", "Steak Tips", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 15.25
+      },
+      {
+        "name": "Tuna",
+        "ingredients": ["Pita Bread", "Greek", "Tuna W/ Mayo", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 13.50
+      },
+      {
+        "name": "Chicken Caesar",
+        "ingredients": ["Pita Bread", "Caesar", "Grilled Chicken", "Romaine Lettuce", "Parmesan Cheese", "Croutons"],
+        "price": 13.50
+      },
+      {
+        "name": "Chicken Salad",
+        "ingredients": ["Pita Bread", "Greek", "Chicken Sld W/ Mayo", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 13.00
+      },
+      {
+        "name": "Grilled Buffalo Chicken",
+        "ingredients": ["Pita Bread", "Blue Cheese", "Buffalo Grilled Chicken", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 13.50
+      },
+      {
+        "name": "Chicken Finger",
+        "ingredients": ["Pita Bread", "Greek", "Chicken Fingers", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 13.50
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "ingredients": ["Pita Bread", "Greek", "Grilled Chicken Teriyaki", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers"],
+        "price": 13.50
+      },
+      {
+        "name": "Greek w/ Grill Chicken",
+        "ingredients": ["Pita Bread", "Greek", "Grilled Chicken", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers", "Olives", "Pepperoncini", "Feta Cheese"],
+        "price": 13.50
+      },
+      {
+        "name": "Greek w/ Steak Tips",
+        "ingredients": ["Pita Bread", "Greek", "Steak Tips", "Lettuce", "Tomatoes", "Carrots", "Cucumber", "Peppers", "Olives", "Pepperoncini", "Feta Cheese"],
+        "price": 15.59
+      },
+      {
+        "name": "Caesar w/Steak Tips",
+        "ingredients": ["Pita Bread", "Caesar", "Steak Tips", "Romaine Lettuce", "Parmesan Cheese", "Croutons"],
+        "price": 15.59
+      },
+      {
+        "name": "Spicy Thai Cold Noodle",
+        "ingredients": ["Pita Bread", "Spicy Thai Peanut Sauce", "Grilled Chicken", "Noodles", "Broccoli", "Carrots", "Basil"],
+        "price": 13.50
+      }
+    ],
+    "wings": [
+      {
+        "name": "5 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 6.25
+      },
+      {
+        "name": "10 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 12.50
+      },
+      {
+        "name": "20 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 25.00
+      },
+      {
+        "name": "30 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 37.50
+      },
+      {
+        "name": "40 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 50.00
+      },
+      {
+        "name": "60 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 75.00
+      },
+      {
+        "name": "160 pc Chicken Wing",
+        "includes": ["Blue Cheese"],
+        "price": 200.00
+      }
+    ],
+    "side_orders": [
+      {
+        "name": "French Fries",
+        "includes": ["Ketchup"],
+        "prices": {"Small": 3.99, "Med": 5.99, "Large": 7.99}
+      },
+      {
+        "name": "Curly Fries",
+        "prices": {"Small": 4.5, "Med": 6.5, "Large": 8.5}
+      },
+      {
+        "name": "Chicken Fingers",
+        "includes": ["Duck Sauce"],
+        "prices": {"Small": 6.99, "Med": 10.5, "Large": 14}
+      },
+      {
+        "name": "Buffalo Fingers",
+        "includes": ["Buffalo Fingers", "Blue Cheese"],
+        "prices": {"Small": 7.99, "Med": 11.5, "Large": 14.5}
+      },
+      {
+        "name": "Chicken Wing Dings",
+        "includes": ["Duck Sauce"],
+        "prices": {"Small": 7.99, "Med": 12, "Large": 15.5}
+      },
+      {
+        "name": "Mozzarella Sticks",
+        "includes": ["Marinara"],
+        "prices": {"Small": 6.5, "Med": 10.5, "Large": 15.5}
+      },
+      {
+        "name": "Pizza Roll",
+        "includes": ["Ketchup"],
+        "prices": {"Small": 2.99, "Med": 5.99, "Large": 8.99}
+      },
+      {
+        "name": "Onion Rings",
+        "includes": ["Ketchup"],
+        "prices": {"Small": 4.5, "Med": 6.5, "Large": 8.5}
+      },
+      {
+        "name": "Garlic Bread",
+        "includes": ["Garlic Butter", "Marinara"],
+        "price": 2.99
+      },
+      {
+        "name": "Appetizer Combo",
+        "includes": ["Chicken Fingers", "Chicken Wing Dings", "Mozzarella Sticks", "French Fries", "Onion Rings", "Ketchup", "Duck Sauce", "Marinara"],
+        "price": 13.50
+      },
+      {
+        "name": "Cheese Fries",
+        "includes": ["Ketchup", "French Fries", "M.Jack&Cheddar Cheese", "Ranch"],
+        "price": 10.00
+      },
+      {
+        "name": "Rice Pilaf",
+        "prices": {"Small": 3.5, "Med": 4.5, "Large": 5.5}
+      },
+      {
+        "name": "Sub Roll",
+        "price": 2.50
+      },
+      {
+        "name": "Broccoli & Cheese Bites",
+        "includes": ["Ketchup"],
+        "prices": {"Small": 6.5, "Med": 10.5, "Large": 15.5}
+      },
+      {
+        "name": "Chili Soup",
+        "prices": {"12oz": 5.5, "16oz": 7.49}
+      },
+      {
+        "name": "Clam Chowder",
+        "prices": {"12oz": 7.5, "16oz": 9.99}
+      },
+      {
+        "name": "Egg Roll-Buffalo Chicken",
+        "description": "Delicious Fried Egg Roll With Side Of Blue Cheese. Med Has 2. Large Has 3",
+        "prices": {"Med": 5.99, "Large": 8.99}
+      },
+      {
+        "name": "Egg Roll-Pepperoni",
+        "description": "Delicious Fried Pepperoni Egg Roll. Comes With Side Of Marinara. Med Has 2 Large Has 3",
+        "prices": {"Med": 5.99, "Large": 8.99}
+      },
+      {
+        "name": "French Onion Soup",
+        "description": "French Onion Soup With Bone Broth",
+        "prices": {"12oz": 6.5, "16oz": 8.69}
+      },
+      {
+        "name": "Egg Roll-cheesesteak",
+        "description": "Delicious Fried Philly Cheesesteak Egg Roll. Comes With Side Of Marinara. Med Has 2 Large Has 3",
+        "prices": {"Med": 5.99, "Large": 8.99}
+      }
+    ],
+    "sauces_dressings": [
+      {"name": "Side Marinara", "price": 0.85},
+      {"name": "Side Blue Cheese", "price": 1.00},
+      {"name": "Side Honey Mustard", "price": 0.85},
+      {"name": "Side Buffalo Sauce", "price": 0.85},
+      {"name": "Sauce Side SPICY BBQ Sauce", "price": 0.85},
+      {"name": "Side Ranch", "price": 0.85},
+      {"name": "Side Honey BBQ Sauce", "price": 0.85},
+      {"name": "Side Italian", "price": 0.85},
+      {"name": "Side Balsamic Vinaigrette", "price": 0.85},
+      {"name": "Side Greek", "price": 0.85},
+      {"name": "Side Fat Free Italian", "price": 0.50},
+      {"name": "Side French", "price": 0.50},
+      {"name": "Side Creamy Italian", "price": 0.85},
+      {"name": "Side Caesar", "price": 0.85},
+      {"name": "Side Raspberry Vinaigrette", "price": 0.50}
+    ],
+    "desserts": [
+      {
+        "name": "Cinnabites",
+        "ingredients": ["Powdered Sugar", "Cinimon", "Butter", "Vanilla Glaze"],
+        "price": 4.00
+      },
+      {
+        "name": "Fried Dough",
+        "ingredients": ["Powdered Sugar", "Cinnamon", "Butter"],
+        "price": 3.00
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "price": 4.00
+      },
+      {
+        "name": "Brownie, Chocolate Chip",
+        "price": 3.00
+      },
+      {
+        "name": "Cheesecake NY Style",
+        "description": "Rich And Creamy With A Smooth Texture And Graham Cracker Crust",
+        "price": 6.00
+      },
+      {
+        "name": "Cheesecake Sea Salt Caramel",
+        "description": "Rich And Creamy With Smooth Texture And Graham Cracker Crust",
+        "price": 6.50
+      }
+    ],
+    "chips": [
+      {"name": "Plain CHIPS", "price": 1.25},
+      {"name": "BBQ Chips", "price": 1.25},
+      {"name": "SC & Onion Chips", "price": 1.25}
+    ]
+  }
+}

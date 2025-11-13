@@ -1,0 +1,122 @@
+menu = {
+  "sandwiches": {
+      "bacon_cheese_add_on": "$1",
+      "description": "all of our fried chicken sandwiches are served on a buttered toasted brioche bun",
+      "items": {
+          "YAS O.G.": {
+              "price": "6.49",
+              "description": "our original fried chicken sandwich, lettuce, pickles, homemade mayo"
+          },
+          "YASVILLE HOT": {
+              "price": "7.49",
+              "description": "spicy fried chicken, lettuce, pickles, YAS sauce"
+          },
+          "YA HOT N YA COLD": {
+              "price": "7.49",
+              "description": "fried chicken, coleslaw, lettuce spicy YAS sauce"
+          },
+          "THE SUFFERING": {
+              "price": "7.49",
+              "description": "fried chicken, pickles, extremely spicy homemade sauce"
+          },
+          "CHEESY CHICK": {
+              "price": "9.99",
+              "description": "house spiced chicken patty stuffed w oozing pepper jack cheese, homemade mayo, pickles"
+          },
+          "MAC ZADDY": {
+              "price": "9.99",
+              "description": "spicy garlic glazed fried chicken w. mac and cheese"
+          },
+          "THE DUO": {
+              "price": "9.99",
+              "description": "waffles buns, savory fried chicken bacon, syrup and sweet mayo"
+          }
+      }
+  },
+  "wings": {
+      "sauces": ["soy garlic", "spicy garlic", "buffalo", "honey Mustard", "Spicy BBQ", "BBQ"],
+      "prices": {
+          "6_pcs": "8.49",
+          "12_pcs": "15.99",
+          "18_pcs": "23.49"
+      }
+  },
+  "tenders": {
+      "sauces": ["YAS Sauce", "buffalo", "honey mustard", "BBQ", "spicy BBQ", "Sweet & Sour"],
+      "prices": {
+          "6_pcs": "10.99",
+          "12_pcs": "18.99",
+          "18_pcs": "29.99"
+      }
+  },
+  "yas_more": {
+      "items": {
+          "CRISPY FRIES OR TOTS": {
+              "description": "(Served w. ketchup & YAS sauce)",
+              "prices": {
+                  "REG": "4.25",
+                  "PARM": "5.49",
+                  "TRUFFLE": "6.99",
+                  "LOADED": "10.99"
+              }
+          },
+          "WONTON MOZZ": {
+              "price": "5.49",
+              "description": "mozzarella cheese wrapped w. crispy wonton skin"
+          },
+          "FRIED GYOZA": {
+              "price": "5.99",
+              "description": "soy garlic or spicy garlic pork dumplings"
+          },
+          "SHRIMP POP": {
+              "price": "7.49",
+              "description": "fried jumbo shrimp popsicles served w. sweet homemade mayo"
+          },
+          "MAC & CHEESE": {
+              "price": "6.99",
+              "description": "creamy mac + cheese with top w. toasted bread crumbs",
+              "add_ons": {
+                  "bacon": "+1"
+              }
+          },
+          "CHICKEN + WAFFLES": {
+              "price": "11.99",
+              "description": "lightly fried Belgium waffles with our original tenders & YAS sauce"
+          },
+          "KOREAN CORN DOG": {
+              "price": "5.99",
+              "description": "fried hot dog with cheese dressed with sweet mayo and ketchup"
+          },
+          "SEAFOOD RANGOONS": {
+              "price": "6.99",
+              "description": "golden fried pockets with crabmeat, lobster, cream cheese, onion & scallions served w/ homemade duck sauce"
+          },
+          "YAS Bites Nuggets": {
+              "price": "5.99",
+              "description": "made fresh with all white meat. Seasoned with YAS special spices"
+          }
+      }
+  },
+  "ya_sweet": {
+      "items": {
+          "WAFFLES": {
+              "price": "5.99",
+              "description": "lightly fried belgium waffles"
+          },
+          "YAS Munchkins": {
+              "price": "6.75",
+              "description": "fried dough-nuts dusted w/cinnamon powdered sugar & white chocolate"
+          }
+      }
+  },
+  "sides": {
+      "items": {
+          "white_rice": {
+              "price": "1.99"
+          },
+          "coleslaw": {
+              "price": "2.99"
+          }
+      }
+  }
+}
